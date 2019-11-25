@@ -20,7 +20,7 @@ To bind to a DOM event, surround the DOM event name in parentheses and assign a 
 
 The following example shows an event binding that implements a click handler:
 
-<code-example path="user-input/src/app/click-me.component.ts" region="click-me-button" header="src/app/click-me.component.ts"></code-example>
+<code-example path="user-input/src/app/click-me.component.html" region="click-me-button" header="src/app/click-me.component.html"></code-example>
 
 {@a click}
 
